@@ -31,9 +31,16 @@ nav .title-nav{
 h1{
     text-align: center;
 }
+.video video {
+    border-radius: 10px;
+    width: 100%;
+   
+    
+}
 .video p{
  text-align: center;
  color: #a5a0a0 ;
+ ;
 }
 .sottotitolo-video p{
 color:  #B5460F;
