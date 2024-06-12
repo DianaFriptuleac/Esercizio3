@@ -1,0 +1,63 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+  
+.logo{
+    width: 50%;
+    margin: auto;
+    padding-bottom: 1em;}
+.logo img{
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+main{
+    width: 50%;
+    margin: auto;
+}
+nav{
+    text-align: center;
+    font-size: 0.8em;
+    color: #00557D;
+    background-color: #FFFBF1;
+    padding: 0.8em;
+    border-top: 2px solid #FFD977;
+    
+}
+nav .title-nav{
+   font-weight:700;
+}
+h1{
+    text-align: center;
+}
+.video p{
+ text-align: center;
+ color: #a5a0a0 ;
+}
+.sottotitolo-video p{
+color:  #B5460F;
+}
+.sottotitolo-video{
+    border-left: 2px solid #FFD977;
+    padding-left: 1em;
+}
+.bordo{
+    border-bottom: 2px solid #C5F3F3;
+}
+.ricetta h2{
+    font-weight: 300;
+}
+.ricetta li{
+    padding: 5px;
+}
+.title-method{
+    border-bottom: 2px solid #C5F3F3;
+}
+.method p{
+    padding-left: 3em;
+}
+footer{
+    width: 50%;
+    margin: auto;
+}
